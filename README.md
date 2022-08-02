@@ -10,7 +10,7 @@ rename the main.exe file to anything and send it to a skid!
 
 ### Purpose
 
-this for anyway is not for destructive purposes and shit please we aware.
+this for anyway is not for destructive purposes and shit please be aware.
 
 ---
 
