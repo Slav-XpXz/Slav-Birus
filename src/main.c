@@ -4,10 +4,8 @@
 
 int main(int argc, char *argv[])
 {
-    FILE *fp;
+    char open[] = "explorer https://slav-xpxz.github.io/trooled/";
 
-    fp = fopen("./website_files/src/index.html", "r");
-
-    return 0;
+    system(open);
 
 }
